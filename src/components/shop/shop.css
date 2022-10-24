@@ -21,3 +21,21 @@
     height: 100%;
     margin-right: 30px;
 }
+
+@media (max-width: 600px) {
+    .shop {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .shop .leftContent {
+        width: 100%;
+        margin-left: 5px;
+    }
+    
+    .shop .rightContent {
+        float: left;
+        width: 100%;
+        margin-left: 5px;
+    }
+}

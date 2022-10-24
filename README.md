@@ -10,7 +10,7 @@ Este proyecto fue construido con el fin de llevar a cabo la solución de una pru
 ### Nombre Proyecto ###
 - Mini Market
 
-### Cómo correr la aplicación local ###
+### Cómo correr la aplicación ambiente local ###
 
 0. Ubicarse en una carpeta limpia y ejectuar los siguientes comandos
 1. git clone https://github.com/loadbing/mini-market.git
@@ -18,5 +18,13 @@ Este proyecto fue construido con el fin de llevar a cabo la solución de una pru
 4. git checkout dev
 5. npm install
 6. npm start
+
+### Cómo construir la aplicación para el ambiente productivo ###
+
+0. Ubicarse en la carpeta del proyecto
+1. git fetch --all
+2. git checkout main
+3. npm run build
+4. npm run deploy - En caso de querer hacer despliegue de los cambios
 
 ### changelog ###
