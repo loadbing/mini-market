@@ -1,11 +1,11 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { Store } from './components/store';
+import { Shop } from './components/shop';
 
 export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Store />} />
+        <Route path="/" element={<Shop />} />
         <Route path="*" element={<div>Error</div>} />
       </Routes>
     </BrowserRouter>

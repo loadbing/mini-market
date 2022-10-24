@@ -1,0 +1,79 @@
+.productsDescription {
+    border-top: 1px solid #dbdbdb;
+}
+
+.productsDescription .description {
+    margin: 10px;
+    width: 70%;
+    height: 150px;
+}
+
+.productsDescription .description .amount {
+    float: left;
+    background-color: #F29B30;
+    color: #ffffff;
+    border-radius: 30px;
+    font-size: small;
+    margin: 5px;
+    padding: 4px;
+}
+
+.productsDescription .description img {
+    margin: auto;
+    display: block;
+    width: auto;
+    height: 100%;
+}
+
+.productsDescription .description .info {
+    width: 100%;
+}
+
+.productsDescription .description .info .title {  
+    float: left;
+}
+
+.productsDescription .description .info .title strong {  
+    float: left;
+    color: #000000;
+}
+
+.productsDescription .description .info .actions {
+    float: right;
+}
+
+.productsDescription .description .info .actions .plus {
+    float: right;
+    background-color: #fdf3e7;
+    color: #F29B30;
+    padding: 1px 6px 4px 6px;
+}
+
+.plus:hover {
+    background-color: #F29B30 !important;
+    color: #FFFFFF !important;
+    cursor: pointer;
+}
+
+.productsDescription .description .info .actions .minus {
+    float: left;
+    background-color: #fdf3e7;
+    color: #F29B30;
+    padding: 1px 6px 4px 6px;
+}
+
+.minus:hover {
+    background-color: #F29B30 !important;
+    color: #FFFFFF !important;
+    cursor: pointer;
+}
+
+.productsDescription .description .info .summary {
+    float: left;
+    border-top: 1px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+    margin-top: 10px;
+    color: #c5c5c5;
+    font-weight: lighter;
+    width: 100%;
+}

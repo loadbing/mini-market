@@ -1,8 +1,9 @@
 import { createSlice } from '@reduxjs/toolkit'
+import items from './products.json'
 
 export const productsSlice = createSlice({
     name: 'products',
-    initialState: [1,2,4,5],
+    initialState: items,
     reducers: {
     }
 });

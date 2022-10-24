@@ -1,0 +1,23 @@
+.shop {
+    position: absolute;
+    margin-left: 20%;
+    border: 1px solid #dbdbdb;
+    box-shadow: 2px 2px 2px #dbdbdb;
+    color: #F29B30;
+    font-weight: bold;
+    width: 60%;
+}
+
+.shop .leftContent {
+    float: left;
+    width: 45%;
+    height: 100%;
+    margin-left: 30px;
+}
+
+.shop .rightContent {
+    float: right;
+    width: 45%;
+    height: 100%;
+    margin-right: 30px;
+}

@@ -1,0 +1,24 @@
+.products {
+    border-top: 1px solid #dbdbdb;
+}
+
+.products .product {
+    float: left;
+    border: 1px solid #dbdbdb;
+    width: 25%;
+    margin: 10px;
+    height: 100px;
+}
+
+.product:hover {
+    border: 1px solid #F29B30;
+    box-shadow: 2px 2px 2px #F29B30;
+    cursor: pointer;
+}
+
+.products .product img {
+    margin: auto;
+    display: block;
+    width: auto;
+    height: 100%;
+}
