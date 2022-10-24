@@ -3,11 +3,18 @@
 }
 
 .products .product {
+    position: relative;
     float: left;
     border: 1px solid #dbdbdb;
     width: 25%;
     margin: 10px;
     height: 100px;
+}
+
+.products .active {
+    border: 1px solid #F29B30;
+    box-shadow: 2px 2px 2px #F29B30;
+    cursor: pointer;
 }
 
 .product:hover {
@@ -21,4 +28,15 @@
     display: block;
     width: auto;
     height: 100%;
+}
+
+.products .product .amount1 {
+    position: absolute;
+    float: left;
+    background-color: #F29B30;
+    color: #ffffff;
+    border-radius: 100%;
+    font-size: small;
+    margin: 5px;
+    padding: 5px 6px 5px 6px;
 }

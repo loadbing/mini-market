@@ -12,10 +12,10 @@
     float: left;
     background-color: #F29B30;
     color: #ffffff;
-    border-radius: 30px;
+    border-radius: 100%;
     font-size: small;
     margin: 5px;
-    padding: 4px;
+    padding: 10px 15px 10px 15px;
 }
 
 .productsDescription .description img {
@@ -75,5 +75,7 @@
     margin-top: 10px;
     color: #c5c5c5;
     font-weight: lighter;
+    text-align: justify;
     width: 100%;
+    padding: 10px;
 }

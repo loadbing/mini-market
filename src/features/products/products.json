@@ -1,86 +1,98 @@
 [
     {
+        "id": 10511,
         "title": "Sal Refisal Salero",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "2090",
-        "amount": "10",
+        "price": 2090,
+        "amount": 10,
         "img": "sal.png"
     },
     {
+        "id": 10512,
         "title": "Café La Bastilla",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "15600",
-        "amount": "5",
+        "price": 15600,
+        "amount": 5,
         "img": "cafe.png"
     },
     {
+        "id": 10513,
         "title": "Gaseosa Kola Hipinto",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "2500",
-        "amount": "20",
+        "price": 2500,
+        "amount": 20,
         "img": "hipinto.png"
     },
     {
+        "id": 10514,
         "title": "Bebida Pony Malta",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "3000",
-        "amount": "30",
+        "price": 3000,
+        "amount": 30,
         "img": "malta.png"
     },
     {
+        "id": 10515,
         "title": "Arroz Roa",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "2900",
-        "amount": "5",
+        "price": 2900,
+        "amount": 5,
         "img": "arroz.png"
     },
     {
+        "id": 10516,
         "title": "Café La Bastilla",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "15600",
-        "amount": "5",
+        "price": 15600,
+        "amount": 5,
         "img": "cafe.png"
     },
     {
+        "id": 10517,
         "title": "Gaseosa Kola Hipinto",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "2500",
-        "amount": "20",
+        "price": 2500,
+        "amount": 20,
         "img": "hipinto.png"
     },
     {
+        "id": 10518,
         "title": "Bebida Pony Malta",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "3000",
-        "amount": "30",
+        "price": 3000,
+        "amount": 30,
         "img": "malta.png"
     },
     {
+        "id": 10519,
         "title": "Arroz Roa",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "2900",
-        "amount": "5",
+        "price": 2900,
+        "amount": 5,
         "img": "arroz.png"
     },
     {
+        "id": 10520,
         "title": "Sal Refisal Salero",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "2090",
-        "amount": "10",
+        "price": 2090,
+        "amount": 10,
         "img": "sal.png"
     },
     {
+        "id": 10521,
         "title": "Café La Bastilla",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "15600",
-        "amount": "5",
+        "price": 15600,
+        "amount": 5,
         "img": "cafe.png"
     },
     {
+        "id": 10522,
         "title": "Gaseosa Kola Hipinto",
         "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        "price": "2500",
-        "amount": "20",
+        "price": 2500,
+        "amount": 20,
         "img": "hipinto.png"
     }
 ]

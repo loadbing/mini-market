@@ -1,3 +1,40 @@
 .cart {
     border-top: 1px solid #dbdbdb;
 }
+
+.cart .item {
+    border-bottom: 1px solid #dbdbdb;
+    padding: 10px;
+    height: 70px;
+}
+
+.cart .item .total {
+    float: left;
+    background-color: #F29B30;
+    color: #ffffff;
+    border-radius: 100%;
+    font-size: small;
+    margin: 10px;
+    padding: 10px 15px 10px 15px;
+}
+
+.cart .item img {
+    display: block;
+    width: auto;
+    height: 100%;
+}
+
+.cart .price {
+    float: right;
+    font-size: large;
+    margin: 10px;
+}
+
+.cart .price strong {
+    color: #919191;
+}
+
+.cart form {
+    float: left;
+    width: 100%;
+}
